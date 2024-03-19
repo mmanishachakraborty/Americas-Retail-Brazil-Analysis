@@ -18,7 +18,6 @@ Join Us:
 Embark on a journey of strategic excellence. Engage with Americas Retail Brazil Analysis and unlock the potential for transformative growth in the retail landscape.
 
 ## Project Report
-## Project Report
 
 Welcome to the project report section of Americas Retail Brazil Analysis! Here, you can explore the comprehensive insights derived from our analysis of a top US retailer's operations in Brazil.
 
@@ -45,6 +44,7 @@ Based on our analysis, we recommend the following strategic improvements:
 
 Our project report provides valuable insights and recommendations to enhance the retail experience and drive business growth in the competitive landscape of Brazil.
 
+https://github.com/mmanishachakraborty/Americas-Retail-Brazil-Analysis/blob/main/BUSINESSCASE-Americas-Retail-Brazil-Analysis.pdf
 
 Join us on this journey of strategic excellence and transformative growth in the retail landscape. Engage with Americas Retail Brazil Analysis to unlock the full potential of your business.
 
